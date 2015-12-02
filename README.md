@@ -22,7 +22,7 @@ grunt.loadNpmTasks('grunt-font-awesome-list');
 ### src
 The path to your font-awesome scss/_icons.scss file.  
 Type: `String`  
-Default: `'./lib/font-awesome/scss/_icons.scss'
+Default: `'./lib/font-awesome/scss/_icons.scss'`
 
 ### dest
 Filepath for where you would like your Array dumped to.  
