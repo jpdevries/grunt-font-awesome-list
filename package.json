@@ -1,0 +1,22 @@
+{
+  "name": "grunt-font-awesome-list",
+  "version": "1.0.0",
+  "description": "Parses font-awesome icons and outputs an alphabatized array of icon classes",
+  "author": {
+      "name": "JP DeVries",
+      "url": "http://devries.jp"
+  },
+  "license": "MIT",
+  "devDependencies": {
+      "grunt":"^0.4.5",
+      "grunt-cli": "^0.1.13"
+  },
+  "keywords":["font-awesome","fontawesome"],
+  "files": [
+    "tasks"
+  ],
+  "bugs":{
+      "url": "https://github.com/jpdevries/grunt-font-awesome-list/issues"
+  },
+  "homepage":"https://github.com/jpdevries/grunt-font-awesome-list/"
+}
